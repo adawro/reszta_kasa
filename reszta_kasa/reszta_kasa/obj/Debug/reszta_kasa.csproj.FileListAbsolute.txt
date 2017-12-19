@@ -1,0 +1,7 @@
+C:\Users\adamw\Desktop\reszta_kasa\reszta_kasa\obj\Debug\reszta_kasa.csprojResolveAssemblyReference.cache
+C:\Users\adamw\Desktop\reszta_kasa\reszta_kasa\obj\Debug\reszta_kasa.csproj.CoreCompileInputs.cache
+C:\Users\adamw\Desktop\reszta_kasa\reszta_kasa\bin\Debug\reszta_kasa.exe.config
+C:\Users\adamw\Desktop\reszta_kasa\reszta_kasa\bin\Debug\reszta_kasa.exe
+C:\Users\adamw\Desktop\reszta_kasa\reszta_kasa\bin\Debug\reszta_kasa.pdb
+C:\Users\adamw\Desktop\reszta_kasa\reszta_kasa\obj\Debug\reszta_kasa.exe
+C:\Users\adamw\Desktop\reszta_kasa\reszta_kasa\obj\Debug\reszta_kasa.pdb
